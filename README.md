@@ -32,4 +32,4 @@ Welcome to my part of GitHub!  My name is Alex, and I'm a Software Developer/Eng
 
 # Styles and Tools 🧰
 
-Every developer has their own style. I aim for small functions and classes, to maximise test coverage and reduce complexity.  To achieve this, I utilise various tools including linters and formatters such as [black](https://github.com/psf/black) and [ruff](https://github.com/astral-sh/ruff).  Additionally, I use VSCode and Sublime Text as text editors and Git for source control.
+Every developer has style preferences. I aim for small functions and classes, to maximise test coverage and reduce complexity.  To achieve this, I utilise various tools including linters and formatters such as [black](https://github.com/psf/black) and [ruff](https://github.com/astral-sh/ruff).  Additionally, I use VSCode and Sublime Text as text editors and Git for source control.

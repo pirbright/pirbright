@@ -2,7 +2,7 @@
 
 # TL;DR
 
-```
+```json
 {
     "name": "Alex",
     "from": "United Kingdom",
